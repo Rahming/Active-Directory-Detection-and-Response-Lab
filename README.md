@@ -53,8 +53,6 @@ I Made 4 Virtual machines using VMWARE. After I downloaded them I made sure they
 
 ## Part 3: Splunk Deployment
 
-<img width="1270" height="432" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/0f5da368-d3b7-4e77-bae3-8718177ad019" />
-<img width="1575" height="958" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/3de0257d-bd2e-4b2a-8b85-7d627d210531" />
 <img width="1119" height="523" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/798be549-0fa7-4e0c-a6b9-837040ed9ee2" />
 <img width="769" height="342" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/7c5ce2cc-12eb-429c-8636-c95a992a26c4" />
 <img width="491" height="61" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/3917f391-2f4b-4107-898f-1e270171affb" />

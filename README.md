@@ -42,7 +42,7 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 | Slack	                     | Alerting            |
 | Draw.io	                   | Architecture Design |
 
-## MITRE ATT&CK Mapping
+## Relevant MITRE ATT&CK Techniques
 | Technique | Description |
 |------------|------------|
 | T1078 | Valid Accounts |

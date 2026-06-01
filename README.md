@@ -45,8 +45,6 @@ I Made 4 Virtual machines using VMWARE. After I downloaded them I made sure they
 
 ## Part 2: Active Directory Deployment
 
-<img width="1920" height="838" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/7d38fdeb-64dc-4dd2-b7e1-97ac9ae37cdd" />
-<img width="1916" height="769" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/e9941810-bb25-48b6-b76f-2dbd5878e1df" />
 <img width="1915" height="759" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/6f8a1710-d9d9-416c-9c93-6439227ba8ec" />
 <img width="1919" height="704" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/184c923f-b535-4a7c-9c9f-9b3d8b1cdf0f" />
 <img width="1917" height="752" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/b27ae57d-6bb5-4e8b-a904-9c7ecf888875" />

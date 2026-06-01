@@ -1,4 +1,4 @@
-# Active-Directory-Lab
+# Active Directory Detection & Response Lab
 
 ## Objective
 Build an enterprise-style security monitoring environment capable of:

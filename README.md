@@ -26,7 +26,13 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 - SOAR Automation
 - Incident Response
 - Security Operations Center (SOC) Workflows
-- MITRE ATT&CK Mapping
+  
+## MITRE ATT&CK Mapping
+| Technique | Description |
+|------------|------------|
+| T1078 | Valid Accounts |
+| T1021.001 | Remote Desktop Protocol |
+| T1110 | Brute Force |
 
 ### Tools Used
 | Tool                       | Purpose
@@ -53,7 +59,7 @@ The lab consists of four virtual machines connected through a private network. W
 | Windows Server | Domain Controller | 192.168.112.128 |
 | Windows Server | Test Machine      | 192.168.112.129 |
 | Ubuntu         | Splunk            | 192.168.112.131 |
-| Kali           | RDP(Testmachine)  | 192.168.112.132 |
+| Kali           | Attack simulation | 192.168.112.132 |
 
 
 ### Windows Test Machine

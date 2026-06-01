@@ -139,7 +139,7 @@ Email is sent after Slack alert
 <img width="1430" height="533" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/4313c9f9-36b2-46e5-a1fc-6507bce0dfc4" />
 <img width="1989" height="306" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/25882c05-53bc-429a-adf8-d8568be101f4" />
 
-Created analyst approval workflow to disable suspicious accounts.
+Created a response workflow that requires analyst approval before disabling a potentially compromised account.
 <img width="1879" height="178" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/4b1a383f-2bec-40ff-92a5-2b06e0a3fad8" />
 <img width="1450" height="795" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/d82b329e-9b41-491c-a892-ff48289b0d3f" />
 <img width="768" height="127" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/57f4c371-e586-49da-9eb7-c20cef588b8f" />
@@ -148,4 +148,26 @@ Slack notifies if an account is disabled
 <img width="1822" height="594" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/35ed6654-2956-4818-b729-9a0384be71b8" />
 <img width="1242" height="858" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/6708dd2b-c734-4233-96ca-a90bd4b54109" />
 
+# Conclusion
+Successfully built an enterprise-style SOC environment capable of:
 
+1. Centralized Windows log collection
+2. Active Directory monitoring
+3. Detection of successful RDP logins
+4. Real-time alert generation
+5. Slack notification delivery
+6. Analyst-guided containment
+7. Automated account disabling
+
+And this project follows the SOC cycle
+
+Log collection -----> Detection -----> Alert -----> Investigate -----> Response-----> Containment
+
+# Future Improvements
+- Sysmon integration
+- Additional detection rules
+- PowerShell logging
+- Windows Defender monitoring
+- Automated ticket creation
+- Threat intelligence enrichment
+- Multi-stage attack simulations

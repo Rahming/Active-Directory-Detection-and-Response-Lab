@@ -14,7 +14,7 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 - Send analyst notifications through Slack
 - Automate account containment actions
 
-### Skills Learned
+## Skills Learned
 - Active Directory Administration
 - Windows Server Management
 - Security Event Monitoring
@@ -27,14 +27,8 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 - Incident Response
 - Security Operations Center (SOC) Workflows
   
-## MITRE ATT&CK Mapping
-| Technique | Description |
-|------------|------------|
-| T1078 | Valid Accounts |
-| T1021.001 | Remote Desktop Protocol |
-| T1110 | Brute Force |
 
-### Tools Used
+## Tools Used
 | Tool                       | Purpose
 | -------------------------- |-------------------- |
 | VMware Workstation	       | Virtualization      |
@@ -48,6 +42,12 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 | Slack	                     | Alerting            |
 | Draw.io	                   | Architecture Design |
 
+## MITRE ATT&CK Mapping
+| Technique | Description |
+|------------|------------|
+| T1078 | Valid Accounts |
+| T1021.001 | Remote Desktop Protocol |
+| T1110 | Brute Force |
 
 ## Part 1: Environment Build
 draw.io was used to make a diagram to logically map out the lab. 

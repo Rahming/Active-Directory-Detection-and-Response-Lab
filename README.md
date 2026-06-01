@@ -37,24 +37,11 @@ I Made 4 Virtual machines using VMWARE. After I downloaded them I made sure they
 | Ubuntu         | Splunk            | 192.168.112.131 |
 | Kali           | RDP(Testmachine)  | 192.168.112.132 |
 
-### Windows Domain Controller
-
-<img width="502" height="435" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/d027721d-e7e6-4301-a69d-6c42855e1273" />
-
 
 ### Windows Test Machine
 
-<img width="483" height="431" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/1ff24d02-8c91-46ce-8f95-a9664b3c1db5" />
+<img width="451" height="645" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/e274a3be-6de0-46f5-aabe-3595f7e47844" />
 
-
-### Ubuntu
-
-<img width="616" height="383" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/b30d91e4-47bc-47ae-97b6-1454ffd94ad8" />
-
-
-### Kali
-
-<img width="522" height="199" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/2117973e-8830-488a-b063-58f174fac1cd" />
 
 ## Part 2: Active Directory Deployment
 

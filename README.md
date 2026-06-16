@@ -2,7 +2,7 @@
 
 ## Overview
 Built an enterprise-style security monitoring environment to simulate detection and response to unauthorized RDP activity in an Active Directory environment.
-
+<img width="2249" height="857" alt="Untitled" src="https://github.com/user-attachments/assets/d58f4c89-0911-46bc-965c-f9b2edffbda5" />
 The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create an automated incident response workflow capable of detecting suspicious logins, notifying analysts, and disabling compromised accounts.
 
 ## Objectives
@@ -50,8 +50,7 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 | T1110 | Brute Force |
 
 ## Part 1: Environment Build
-draw.io was used to make a diagram to logically map out the lab. 
-<img width="2249" height="857" alt="Untitled" src="https://github.com/user-attachments/assets/d58f4c89-0911-46bc-965c-f9b2edffbda5" />
+
 
 The lab consists of four virtual machines connected through a private network. Windows Security Events are forwarded to Splunk for analysis. Detection alerts are sent to Shuffle via webhook, which generates Slack notifications and enables automated response actions.
 | System         | Purpose           | IP              |

@@ -1,7 +1,7 @@
 # Active Directory Detection & Response Lab
 
 ## Overview
-Built an enterprise-style security monitoring environment to simulate detection and response to unauthorized RDP activity in an Active Directory environment.
+Built a security monitoring environment to simulate detection and response to unauthorized RDP activity in an Active Directory environment.
 <img width="2249" height="857" alt="Untitled" src="https://github.com/user-attachments/assets/d58f4c89-0911-46bc-965c-f9b2edffbda5" />
 The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create an automated incident response workflow capable of detecting suspicious logins, notifying analysts, and disabling compromised accounts.
 
@@ -154,7 +154,7 @@ Slack notifies if an account is disabled
 <img width="1242" height="858" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/6708dd2b-c734-4233-96ca-a90bd4b54109" />
 
 # Conclusion
-Successfully built an enterprise-style SOC environment capable of:
+Successfully built a SOC environment capable of:
 
 1. Centralized Windows log collection
 2. Active Directory monitoring
@@ -164,9 +164,6 @@ Successfully built an enterprise-style SOC environment capable of:
 6. Analyst-guided containment
 7. Automated account disabling
 
-And this project follows the SOC cycle
-
-Log collection -----> Detection -----> Alert -----> Investigate -----> Response-----> Containment
 
 # Future Improvements
 - Sysmon integration

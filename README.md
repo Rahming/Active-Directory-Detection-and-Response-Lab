@@ -14,19 +14,6 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 - Send analyst notifications through Slack
 - Automate account containment actions
 
-## Skills Learned
-- Active Directory Administration
-- Windows Server Management
-- Security Event Monitoring
-- Splunk Deployment
-- Universal Forwarder Configuration
-- SPL Query Development
-- Detection Engineering
-- Alert Tuning
-- SOAR Automation
-- Incident Response
-- Security Operations Center (SOC) Workflows
-  
 
 ## Tools Used
 | Tool                       | Purpose
@@ -41,13 +28,6 @@ The project combines Active Directory, Splunk, Shuffle SOAR, and Slack to create
 | Shuffle	                   | SOAR Platform       |
 | Slack	                     | Alerting            |
 | Draw.io	                   | Architecture Design |
-
-## Relevant MITRE ATT&CK Techniques
-| Technique | Description |
-|------------|------------|
-| T1078 | Valid Accounts |
-| T1021.001 | Remote Desktop Protocol |
-| T1110 | Brute Force |
 
 ## Part 1: Environment Build
 
@@ -164,6 +144,18 @@ Successfully built a SOC environment capable of:
 6. Analyst-guided containment
 7. Automated account disabling
 
+## Skills Learned
+- Active Directory Administration
+- Windows Server Management
+- Security Event Monitoring
+- Splunk Deployment
+- Universal Forwarder Configuration
+- SPL Query Development
+- Detection Engineering
+- Alert Tuning
+- SOAR Automation
+- Incident Response
+- Security Operations Center (SOC) Workflows
 
 # Future Improvements
 - Sysmon integration
@@ -172,4 +164,11 @@ Successfully built a SOC environment capable of:
 - Windows Defender monitoring
 - Automated ticket creation
 - Threat intelligence enrichment
+
+## Relevant MITRE ATT&CK Techniques
+| Technique | Description |
+|------------|------------|
+| T1078 | Valid Accounts |
+| T1021.001 | Remote Desktop Protocol |
+| T1110 | Brute Force |
 - Multi-stage attack simulations

@@ -164,6 +164,7 @@ Successfully built a SOC environment capable of:
 - Windows Defender monitoring
 - Automated ticket creation
 - Threat intelligence enrichment
+- Multi-stage attack simulations
 
 ## Relevant MITRE ATT&CK Techniques
 | Technique | Description |
@@ -171,4 +172,4 @@ Successfully built a SOC environment capable of:
 | T1078 | Valid Accounts |
 | T1021.001 | Remote Desktop Protocol |
 | T1110 | Brute Force |
-- Multi-stage attack simulations
+
